@@ -1,4 +1,4 @@
-excluded_lang: html,lua,css,less,xlst,shaderlab,hlsl,gherkin
+excluded_lang: html,css,less,xlst,shaderlab,hlsl,gherkin
 
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
